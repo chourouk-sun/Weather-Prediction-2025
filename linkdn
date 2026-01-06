@@ -1,0 +1,81 @@
+Weather Prediction Project | Kaggle Competition
+
+Built an end-to-end machine learning regression project to predict next-day minimum temperature using two weeks of historical weather data.
+
+What I worked on:
+
+* Data cleaning & preprocessing (dates, missing values, messy columns)
+* Feature engineering (date features, lag features, rolling averages)
+* Model training with **Random Forest Regressor**
+* Model evaluation using **MAPE**
+* Generated a **submission-ready CSV** for Kaggle
+
+Tools: Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+ Kaggle Competition: *Weather Prediction 2025*
+
+This project strengthened my skills in **data preprocessing, feature engineering, and regression modeling**.
+
+🔗 GitHub: *[add your repo link]*
+
+---
+
+### 🔹 Very Short Version (If you want it compact)
+
+🌦️ **Weather Prediction ML Project (Kaggle)**
+Built a regression model to predict next-day minimum temperature using historical weather data.
+Applied data preprocessing, feature engineering, Random Forest, and MAPE evaluation.
+
+**Tech:** Python, Pandas, Scikit-learn
+🔗 GitHub: *[link]*
+
+
+
+Here are **clean, professional LinkedIn hashtags** you can copy–paste 👇
+
+### 🔹 Recommended (Balanced & Recruiter-friendly)
+
+#MachineLearning
+#DataScience
+#Python
+#Kaggle
+#WeatherPrediction
+#Regression
+#FeatureEngineering
+#RandomForest
+#ScikitLearn
+#DataAnalytics
+
+---
+
+### 🔹 Tech-Focused (More visibility in ML/Data)
+
+#MLProjects
+#DataPreprocessing
+#ModelEvaluation
+#MAPE
+#JupyterNotebook
+#PredictiveModeling
+
+---
+
+### 🔹 Career / Germany-friendly (optional add)
+
+#OpenToWork
+#JuniorDataScientist
+#DataScientist
+#DataAnalyst
+#AI
+#TechCareers
+
+📌 **Tip:** Use **5–10 hashtags max** per post for best reach.
+
+If you want, I can select the **best 7 hashtags** specifically for:
+
+* Kaggle visibility
+* German job market
+* Junior Data roles
+
+Just tell me which one 🎯
+
+
+
